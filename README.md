@@ -6,7 +6,11 @@ This project was created in order to calculate relative viability from absorbanc
 In order to get started with this project, users should set up a table with the following columns: Drug, Wavelength, Triplicate, 10, 1, 0.1, 0.01, No_Drug_Control
 
 **Drug**: name of the drug of interest
+
 **Wavelength**: the wavelengths that absorbances were taken at (there should be one included to subtract any bakground: A490-A750)
+
 **Triplicate**: each wavelength for each drug should have three readings (1,2,3)
+
 **10,1,0.1,0.01**: names represent the concentrations (in uM) that absorbances were taken at. Absorbance readings should go in these columns 
+
 **No_Drug_Control**: absorbance readings from control wells should go in this column
