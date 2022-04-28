@@ -17,7 +17,7 @@ Dabrafenib |   A750	    |     3	     | 0.039	| 0.038	 | 0.041 | 0.04	 |  0.039
 
 **Drug**: name of the drug of interest
 
-**Wavelength**: the wavelengths that absorbances were taken at 
+**Wavelength**: the wavelengths that absorbances were taken at (490 nm and 750 nm)
 
 **Triplicate**: each wavelength for each drug should have three readings (1,2,3)
 
